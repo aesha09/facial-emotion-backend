@@ -4,3 +4,4 @@ opencv-python==4.8.0.76
 matplotlib==3.7.1
 Flask==2.2.5
 imutils==0.5.4
+flask-cors
